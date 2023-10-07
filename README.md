@@ -1,4 +1,4 @@
-# Identification of transgender and gender diverse individuals in electronic health records
+# A deep learning approach for transgender and gender diverse patient identification in electronic health records
 
 This work was presented at the AMIA Annual Symposium 2022 and ICHI 2023.
 
